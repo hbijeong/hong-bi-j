@@ -17,12 +17,18 @@
 * Major in Bio Artificial Intelligence
 * Researcher in the Cyber Physical System Laboratory
 
+<br>
+
 ### Interested in
 * BioMedical
 * Artificial Intelligence
 
+<br>
+
 ### Contact me
 * Use [HYmail](mailto:hbjeong@hanyang.ac.kr) to contact me.
+
+<br>
 
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hong-bi-j&layout=compact" alt="Top Langs"></a>
